@@ -32,7 +32,7 @@ void solution(int* arrResult, bool* arrUsed, int curIdx, const int m, const int 
 	}
 }
 
-
+/*
 int main()
 {	int* arrResult;
 	bool* arrUsed;
@@ -49,3 +49,4 @@ int main()
 
 	return 0;
 }
+*/
